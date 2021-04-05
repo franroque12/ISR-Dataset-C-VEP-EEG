@@ -1,1 +1,1 @@
-# ISR-Dataset-C-VEP-EEG
+# ISR Dataset C-VEP EEG
