@@ -15,4 +15,4 @@ For the scripts we recommend
 
 ## Data structure
 
-In each dataset folder there are several .mat files named Tx.mat. Each contains a 4-D array in the format (channels, time, user, block). Data was recorded at a sampling rate of 256Hz, and is time-segmented according to the paradigm used in the paper above.
+In each dataset folder there are several .mat files named Tx.mat. Each file contains a 4-D array in the format (channels, time samples, user ID, block). Data was recorded at a sampling rate of 512Hz, and is time-segmented according to the paradigm used in the paper above.
