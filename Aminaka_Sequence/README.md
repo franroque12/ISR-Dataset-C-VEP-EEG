@@ -1,8 +1,6 @@
 # ISR Dataset C-VEP EEG - Aminaka Sequence
 
-C-VEP EEG Dataset created for 
-
-[Paper](https://ieeexplore.ieee.org/abstract/document/7318755)
+C-VEP EEG Dataset created based in the m-sequences proposed in [Paper](https://ieeexplore.ieee.org/abstract/document/7318755).
 
 ## Data structure
 
