@@ -12,7 +12,10 @@ function [data_plot] = plotEEGTimeSeries(fname, subject, block)
     data_uV = load(fname);
     data = data_uV.T;
 
-    t=0:1/512:7.75;
+    Fs = 512;   % Sampling frequency
+    timeT = 7.75; % Total time of acquisition
+    
+    t=0:1/Fs:timeT;
     data_plot = data(:,:, subject, block);
     
     figure;
