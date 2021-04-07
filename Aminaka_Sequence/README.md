@@ -2,7 +2,7 @@
 
 C-VEP EEG Dataset created for 
 
-Paper(https://ieeexplore.ieee.org/abstract/document/7318755)
+[Paper](https://ieeexplore.ieee.org/abstract/document/7318755)
 
 ## Data structure
 
