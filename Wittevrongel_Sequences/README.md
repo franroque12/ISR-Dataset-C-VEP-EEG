@@ -4,4 +4,4 @@ C-VEP EEG Dataset adapted from the [Paper](https://doi.org/10.1038/s41598-017-15
 
 ## Data structure
 
-Data was recorded at a sampling rate of 512Hz, and is time-segmented according to the paradigm used in the paper.
+Data from 16 subjects from the dataset were used. Data was recorded at a sampling rate of 2000Hz, and downsampled to 200Hz.
