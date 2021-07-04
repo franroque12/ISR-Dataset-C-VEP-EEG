@@ -17,3 +17,20 @@ For the scripts we recommend
 ## Data structure
 
 In each dataset folder there are several .mat files named Tx.mat. Each file contains a 4-D array in the format (channels, time samples, user ID, block). 
+
+
+## Citation
+
+If you think this dataset is useful for your research, please consider citing:
+
+@ARTICLE{9465083,
+  author={Roque, Francisco and Pires, Gabriel and Perdiz, João and Nunes, Urbano J.},
+  booktitle={2021 IEEE International Workshop on Biometrics and Forensics (IWBF)}, 
+  title={A User Identification System based on Code-modulated Visual Evoked Potentials with LED Stimulation}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-6},
+  doi={10.1109/IWBF50991.2021.9465083}}
+
+Link: https://ieeexplore.ieee.org/document/9465083
