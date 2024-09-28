@@ -1,6 +1,6 @@
 # ISR Dataset C-VEP EEG
 
-C-VEP EEG Dataset created for the paper: [A User-Identification system based on Code-modulated Visual Evoked Potentials with LED stimulation](xxx).
+C-VEP EEG Dataset created for the paper: [A User-Identification system based on Code-modulated Visual Evoked Potentials with LED stimulation](https://ieeexplore.ieee.org/document/9465083).
 
 ## Source code
 
